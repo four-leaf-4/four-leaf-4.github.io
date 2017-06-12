@@ -25,9 +25,9 @@ a {
 	color: #0b8793;
 }
 #main-visual {
-  background: -moz-linear-gradient(-45deg, #d2ff52 0%, #91e842 100%);
-  background: -webkit-linear-gradient(-45deg, #d2ff52 0%,#91e842 100%);
-  background: linear-gradient(135deg, #d2ff52 0%,#91e842 100%);
+	background: -moz-linear-gradient(-45deg, #91e842 0%, #d2ff52 100%);
+	background: -webkit-linear-gradient(-45deg, #91e842 0%,#d2ff52 100%);
+	background: linear-gradient(135deg, #91e842 0%,#d2ff52 100%);
 	height: 300px;
 }
 
@@ -35,9 +35,9 @@ footer {
 	padding: 30px;
 	text-align: center;
 	border-top: solid 1px #bbb;
-  background: -moz-linear-gradient(-45deg, #bfd255 0%, #8eb92a 50%, #72aa00 51%, #9ecb2d 100%);
-  background: -webkit-linear-gradient(-45deg, #bfd255 0%,#8eb92a 50%,#72aa00 51%,#9ecb2d 100%);
-  background: linear-gradient(135deg, #bfd255 0%,#8eb92a 50%,#72aa00 51%,#9ecb2d 100%);
+	background: -moz-linear-gradient(-45deg, #91e842 0%, #d2ff52 100%);
+	background: -webkit-linear-gradient(-45deg, #91e842 0%,#d2ff52 100%);
+	background: linear-gradient(135deg, #91e842 0%,#d2ff52 100%);
 }
 footer a {
 	color: #666;
